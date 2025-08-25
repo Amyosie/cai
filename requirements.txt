@@ -1,0 +1,5 @@
+pandas
+nicegui
+gspread
+sqlalchemy
+psycopg2-binary
